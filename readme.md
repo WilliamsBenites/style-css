@@ -18,11 +18,11 @@
     <h1 style="color: red">css</h1>
 ```
 
-##DESCRIPCION
+## DESCRIPCION
 
-h1{
+    h1{
     color: peru;
-}
+    }
 h=Selector
 color=Propiedad
 peru=valor
