@@ -113,5 +113,8 @@ h1 {
  
 <!-- IMPORTANT (infinito) -->
 ```
- 
- 
+ # ESTILOS DE TEXTO
+
+h1 {
+  color: red;
+}
